@@ -1,0 +1,826 @@
+{
+  "updated": "2026-10-14T13:42:53+00:00",
+  "weeks": [
+    {
+      "week": 42,
+      "days": [
+        {
+          "weekday": "Montag",
+          "date": "2026-10-12",
+          "lessons": [
+            {
+              "period": "1",
+              "subject": "KU L1",
+              "teacher": "ber",
+              "room": "A0.18",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "hof",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "hof",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "KU L1",
+              "teacher": "ber",
+              "room": "A0.18",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "hof",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "hof",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "lux",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "lux",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "dei",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "qua",
+              "room": "A2.11",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "gro",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "IF G2",
+              "teacher": "win",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "ver",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "han",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "ver",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "win",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "zim",
+              "room": "A2.11",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "5",
+              "subject": "E5 G1",
+              "teacher": "ges",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "5",
+              "subject": "Klausur",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "5",
+              "subject": "Klausur",
+              "teacher": "dei",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "5",
+              "subject": "Klausur",
+              "teacher": "fuh",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "5",
+              "subject": "Klausur",
+              "teacher": "smi",
+              "room": "A2.11",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "6",
+              "subject": "E5 G1",
+              "teacher": "ges",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "7",
+              "subject": "GE Z1",
+              "teacher": "leh",
+              "room": "A2.14",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "8",
+              "subject": "GE Z1",
+              "teacher": "leh",
+              "room": "A2.14",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            }
+          ]
+        },
+        {
+          "weekday": "Dienstag",
+          "date": "2026-10-13",
+          "lessons": [
+            {
+              "period": "1",
+              "subject": "SW G1",
+              "teacher": "ros",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "2",
+              "subject": "SW G1",
+              "teacher": "ros",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "4",
+              "subject": "EK G1",
+              "teacher": "kft",
+              "room": "A2.14",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "5",
+              "subject": "KU L1",
+              "teacher": "ber",
+              "room": "A0.18",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "6",
+              "subject": "KU L1",
+              "teacher": "ber",
+              "room": "A0.18",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "7",
+              "subject": "D G2",
+              "teacher": "ahl",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "8",
+              "subject": "D G2",
+              "teacher": "ahl",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            }
+          ]
+        },
+        {
+          "weekday": "Mittwoch",
+          "date": "2026-10-14",
+          "lessons": [
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "kra",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "1",
+              "subject": "Klausur",
+              "teacher": "kra",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "kra",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "kra",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "Klausur",
+              "teacher": "snd",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "BI G2",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "hob",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "tap",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "tap",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "tap",
+              "room": "A1.09",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "Klausur",
+              "teacher": "hob",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "KU L1",
+              "teacher": "ber",
+              "room": "A0.18",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "met",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "4",
+              "subject": "Klausur",
+              "teacher": "NN",
+              "room": "K",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "5",
+              "subject": "M L2",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "6",
+              "subject": "M L2",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            }
+          ]
+        },
+        {
+          "weekday": "Donnerstag",
+          "date": "2026-10-15",
+          "lessons": [
+            {
+              "period": "1",
+              "subject": "M L2",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "1",
+              "subject": "E5",
+              "teacher": "jsn",
+              "room": "A5.01",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "M L2",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "2",
+              "subject": "E5",
+              "teacher": "jsn",
+              "room": "A5.01",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "E5",
+              "teacher": "ges",
+              "room": "A5.01",
+              "room_old": "",
+              "status": "new",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "E5 G1",
+              "teacher": "ges",
+              "room": "A4.01",
+              "room_old": "A4.05",
+              "status": "room_change",
+              "has_comment": false
+            },
+            {
+              "period": "4",
+              "subject": "D G2",
+              "teacher": "ahl",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "7",
+              "subject": "EK G1",
+              "teacher": "kft",
+              "room": "A2.11",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "8",
+              "subject": "EK G1",
+              "teacher": "kft",
+              "room": "A2.11",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "9",
+              "subject": "SP G1",
+              "teacher": "klj, rhe",
+              "room": "TH",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "10",
+              "subject": "SP G1",
+              "teacher": "klj, rhe",
+              "room": "TH",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "11",
+              "subject": "SP G1",
+              "teacher": "klj, rhe",
+              "room": "TH",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            }
+          ]
+        },
+        {
+          "weekday": "Freitag",
+          "date": "2026-10-16",
+          "lessons": [
+            {
+              "period": "1",
+              "subject": "BI G2",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": true
+            },
+            {
+              "period": "2",
+              "subject": "BI G2",
+              "teacher": "jsn",
+              "room": "A1.03",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": true
+            },
+            {
+              "period": "3",
+              "subject": "GE Z1",
+              "teacher": "leh",
+              "room": "A2.14",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "4",
+              "subject": "SW G1",
+              "teacher": "ros",
+              "room": "A2.13",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "5",
+              "subject": "IF G2",
+              "teacher": "win",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "6",
+              "subject": "IF G2",
+              "teacher": "win",
+              "room": "N2.04",
+              "room_old": "",
+              "status": "regular",
+              "has_comment": false
+            },
+            {
+              "period": "7",
+              "subject": "M L2",
+              "teacher": "bad",
+              "room": "A2.15",
+              "room_old": "",
+              "status": "cancelled",
+              "has_comment": false
+            },
+            {
+              "period": "7",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            },
+            {
+              "period": "8",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            },
+            {
+              "period": "9",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            },
+            {
+              "period": "10",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            },
+            {
+              "period": "11",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            },
+            {
+              "period": "12",
+              "subject": "Beginn Herbstferien",
+              "teacher": "NN",
+              "room": "",
+              "room_old": "",
+              "status": "new",
+              "has_comment": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 43,
+      "days": [
+        {
+          "weekday": "Montag",
+          "date": "2026-10-19",
+          "lessons": []
+        },
+        {
+          "weekday": "Dienstag",
+          "date": "2026-10-20",
+          "lessons": []
+        },
+        {
+          "weekday": "Mittwoch",
+          "date": "2026-10-21",
+          "lessons": []
+        },
+        {
+          "weekday": "Donnerstag",
+          "date": "2026-10-22",
+          "lessons": []
+        },
+        {
+          "weekday": "Freitag",
+          "date": "2026-10-23",
+          "lessons": []
+        }
+      ]
+    }
+  ]
+}

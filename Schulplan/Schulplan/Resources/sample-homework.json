@@ -1,0 +1,93 @@
+{
+  "updated": "2026-10-14T13:42:53+00:00",
+  "days": [
+    {
+      "date": "2026-10-14",
+      "weekday": "Mittwoch",
+      "entries": [
+        {
+          "subject": "Mathematik",
+          "text": "S. 112 Nr. 4, 5 und 7\nZusatz: Nr. 9",
+          "links": []
+        },
+        {
+          "subject": "Kunst",
+          "text": "Skizzen zur Perspektive fertigstellen",
+          "links": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "Dienstag",
+      "entries": [
+        {
+          "subject": "Erdkunde",
+          "text": "Klimadiagramm Manaus auswerten (M4)",
+          "links": []
+        },
+        {
+          "subject": "Deutsch",
+          "text": "Gedichtanalyse „Mondnacht“ beenden",
+          "links": []
+        },
+        {
+          "subject": "Sozialwissenschaften",
+          "text": "Material M3 lesen und Thesen notieren",
+          "links": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "weekday": "Montag",
+      "entries": [
+        {
+          "subject": "Englisch",
+          "text": "Workbook p. 34, ex. 2–4",
+          "links": [
+            "https://www.bbc.co.uk/learningenglish"
+          ]
+        },
+        {
+          "subject": "Geschichte",
+          "text": "Quellenanalyse Q2 schriftlich",
+          "links": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Freitag",
+      "entries": [
+        {
+          "subject": "Informatik",
+          "text": "Struktogramm zur Sortierung zeichnen",
+          "links": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Dienstag",
+      "entries": [
+        {
+          "subject": "Biologie",
+          "text": "Arbeitsblatt Zellatmung",
+          "links": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Montag",
+      "entries": [
+        {
+          "subject": "Geschichte",
+          "text": "Zeitleiste Weimarer Republik",
+          "links": []
+        }
+      ]
+    }
+  ]
+}
